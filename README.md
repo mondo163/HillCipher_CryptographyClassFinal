@@ -9,6 +9,10 @@ their text. This will then take you to a seperate page that shows visually how t
 or decrypting.
 
 # Responsibilities
-- Nick Slaughter:
+Nick Slaughter:
  * Create the home, encryption, and decryption views
- * 
+ * Data bind the results and values to the views
+
+Myself:
+ * Create the Encryption and Decryption Algorithms
+ * Create the determinant Algorithm to check the key matrix
